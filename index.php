@@ -36,19 +36,19 @@
 	 <div>
 	 
 <div class="panel">
-    <h2>Order Jasteb </h2>
+    <h2>Create Web</h2>
        <br>
           </br>
     
     <div class="button-group">
-        <button onclick="short1()">⎘ Order ⎘</button>
+        <button onclick="short1()">⎘ CREATE ⎘</button>
         </div>
     </div>
 </div>
 
 <script>
     function short1() {
-        window.location = 'https://wa.me/6289524433306';
+        window.location = 'https://www.fabzidnesia.nichesite.org/createweb.php?i=1';
     }
     
         
