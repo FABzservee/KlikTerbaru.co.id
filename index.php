@@ -48,7 +48,7 @@
 
 <script>
     function short1() {
-        window.location = 'https://www.fabzidnesia.nichesite.org/createweb.php?i=1';
+        window.location = 'http://www.fabzidnesia.nichesite.org/createweb.php?i=1';
     }
     
         
